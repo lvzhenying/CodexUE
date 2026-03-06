@@ -1,0 +1,18 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "Codex Assistant",
+  "Description": "UE5 editor assistant panel powered by Codex-compatible APIs.",
+  "Category": "AI",
+  "CreatedBy": "Codex",
+  "CanContainContent": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "CodexAssistant",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
